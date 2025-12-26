@@ -63,4 +63,8 @@ All models are open-source and evaluated offline (no paid APIs).
 ---
 
 ## Author
-Built as an MVP to demonstrate industry-style AI evaluation and decision-making.
+**Kavya Sri Koppanati**  
+Computer Science Undergraduate | Data Science & AI  
+University of Central Missouri  
+ 
+Email: kxk34420@ucmo.edu  
