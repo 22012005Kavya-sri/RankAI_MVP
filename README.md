@@ -9,7 +9,7 @@ This MVP focuses on **text summarization** and compares multiple open-source tra
 
 ---
 
-## 🚀 Why RankAI?
+## Why RankAI?
 Most AI comparisons answer: *“Which model is best?”*
 
 RankAI answers:
@@ -19,7 +19,7 @@ This mirrors how real companies select models for production.
 
 ---
 
-## 🧠 How It Works
+## How It Works
 1. Load a benchmark dataset with ground truth summaries
 2. Run the same task across multiple AI models
 3. Measure accuracy, latency, and hallucination risk
@@ -28,7 +28,7 @@ This mirrors how real companies select models for production.
 
 ---
 
-## 📊 Metrics Used
+## Metrics Used
 - **ROUGE-1** for summarization accuracy
 - **Inference latency** as a performance metric
 - **Output-length proxy** for hallucination risk
@@ -36,7 +36,7 @@ This mirrors how real companies select models for production.
 
 ---
 
-## 🤖 Models Evaluated
+## Models Evaluated
 - T5-small
 - DistilBART-CNN
 - Pegasus (ArXiv)
@@ -45,7 +45,7 @@ All models are open-source and evaluated offline (no paid APIs).
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python
 - Hugging Face Transformers
 - Hugging Face Datasets
@@ -54,7 +54,7 @@ All models are open-source and evaluated offline (no paid APIs).
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 - Replace proxies with factual consistency checks
 - Add user-defined metric weights
 - Support real-time API-based models (GPT, Claude, Gemini)
@@ -62,5 +62,5 @@ All models are open-source and evaluated offline (no paid APIs).
 
 ---
 
-## 👤 Author
+## Author
 Built as an MVP to demonstrate industry-style AI evaluation and decision-making.
